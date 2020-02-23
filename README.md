@@ -1,2 +1,2 @@
 # Nginx-Config-Production
-Nginx configuration for production environment
+Nginx configuration based on security and performance for production environment
